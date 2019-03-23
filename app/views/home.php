@@ -1,0 +1,1 @@
+<div>This is home page for <?php echo $data['name']; ?></div>
